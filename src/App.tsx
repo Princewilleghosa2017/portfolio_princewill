@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 import { Card, CardContent, CardHeader, CardTitle } from './components/ui/card'
 import { Button } from './components/ui/button'
-import { Github, Linkedin, Mail, Phone, Briefcase, GraduationCap, Code, Shield, Terminal, Award, Download, User } from 'lucide-react'
+import { Github, Linkedin, Mail, Phone, Briefcase, GraduationCap, Code, Shield, Terminal, Award, User } from 'lucide-react'
 
 function App() {
   return (
