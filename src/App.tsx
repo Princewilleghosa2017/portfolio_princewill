@@ -468,6 +468,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="text-center text-gray-600 dark:text-gray-300">
             <p>&copy; 2024 EGHOSA PRINCEWILL GUOBADIA. Built with React, TypeScript & Tailwind CSS.</p>
+            <p>This is a personal portfolio project. Not affiliated with any company.</p>
             <div className="flex justify-center space-x-6 mt-4">
               <a href="https://github.com/Princewilleghosa2017" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors">
                 <Github className="w-5 h-5" />
