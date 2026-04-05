@@ -1,6 +1,7 @@
 # PrinceWill Guobadia - Digital Forensic/Cybersecurity Analyst Portfolio
 
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS showcasing the professional experience and skills of EGHOSA PRINCEWILL GUOBADIA.
+“This is a personal portfolio/demo project. Not affiliated with any company.”
 
 ## 🚀 Features
 
