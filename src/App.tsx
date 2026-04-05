@@ -430,7 +430,7 @@ function App() {
                   </div>
                   <div className="mt-4">
                     <p className="text-gray-600 dark:text-gray-300">
-                      <strong>Address:</strong>Kleinberg, Vaughan, ON, Canada
+                      <strong>Address:</strong> Kleinberg, Vaughan, ON, Canada
                     </p>
                   </div>
                 </div>
