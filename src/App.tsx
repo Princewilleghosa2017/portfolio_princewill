@@ -152,7 +152,7 @@ function App() {
               <div className="border-l-4 border-blue-600 pl-6">
                 <div className="flex flex-col sm:flex-row sm:justify-between sm:items-start mb-2">
                   <h3 className="text-xl font-semibold text-gray-900 dark:text-white">Digital Forensic Specialist</h3>
-                  <span className="text-sm text-gray-500 dark:text-gray-400">RCMP, Fredericton, New Brunswick • 2023-03 - 2024-11</span>
+                  <span className="text-sm text-gray-500 dark:text-gray-400">RCMP, Fredericton, New Brunswick • 2023-03 - 2025-12</span>
                 </div>
                 <ul className="list-disc list-inside space-y-2 text-gray-600 dark:text-gray-300">
                   <li>Conducted forensic acquisition and imaging of digital media using industry-standard methodologies ensuring strict chain of custody</li>
