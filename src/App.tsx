@@ -81,7 +81,7 @@ function App() {
                 <div>
                   <h3 className="font-semibold text-lg text-gray-900 dark:text-white mb-3">Professional Summary</h3>
                   <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                    Accomplished Cyber Crime Investigator and Program Manager with 10+ years of experience managing eDiscovery lifecycle, 
+                    Accomplished Cyber Crime Investigator and Program Manager with 5+ years of experience managing eDiscovery lifecycle, 
                     digital transformation, and cloud security initiatives. Proven expertise in financial services and public sector environments.
                   </p>
                 </div>
